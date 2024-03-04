@@ -35,10 +35,6 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - Use the "C" button to clear the display.
 </div>
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by [inspiration-source](https://www.youtube.com/watch?v=I5kj-YsmWjM).
